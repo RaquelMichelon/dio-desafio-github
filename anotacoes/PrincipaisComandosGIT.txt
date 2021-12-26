@@ -1,0 +1,11 @@
+git status
+
+git add .
+ou 
+git add -A
+
+git status
+
+git commit -m “Inclusão das primeiras anotações do curso de Git/Github”
+
+git push origin main
